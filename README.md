@@ -4,7 +4,7 @@
 
 NoteForge is a real-time collaborative whiteboard that lives in your browser. Think Excalidraw meets a notebook: hand-drawn-style shapes, pressure-sensitive pens, image import with local audio transcription, P2P collaboration via PeerJS, and a glass-morphism UI that looks good doing it. No signup, no server, no nonsense.
 
-**[Live Demo](https://noteforge.vercel.app)** &nbsp;·&nbsp; [Report Bug](https://github.com/sparshsinghal/noteforge/issues) &nbsp;·&nbsp; [Request Feature](https://github.com/sparshsinghal/noteforge/issues)
+**[Live Demo]([https://noteforge.vercel.app](https://noteforge.sparshlike.eu.org/))** &nbsp;·&nbsp; [Report Bug](https://github.com/singhalsparsh/noteforge/issues) &nbsp;·&nbsp; [Request Feature](https://github.com/singhalsparsh/noteforge/issues)
 
 ---
 
