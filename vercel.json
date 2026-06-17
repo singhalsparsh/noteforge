@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "functions": {
+    "api/socket/route.ts": {
+      "memory": 512
+    }
+  }
+}

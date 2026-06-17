@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npm install *)",
+      "Bash(npx next *)",
+      "Bash(powershell *)",
+      "Bash(Start-Sleep 2)",
+      "Bash(npm run *)"
+    ]
+  }
+}
